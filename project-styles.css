@@ -104,13 +104,16 @@ table th {
   background-color: black;
   color: white;
   line-height: 40px;
-  text-align: left;
+  text-align: center;
   padding: 0 20px;
 }
 table td {
   border-bottom: 1px solid black;
   padding: 0 20px;
   line-height: 40px;
+  text-align: center;
+
+  
 }
 
 strong {
